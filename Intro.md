@@ -9,4 +9,4 @@ Cambiamos el archivo /etc/hosts
 lanzamos el nmap -sC -sV IP
 
 ![Mi Imagen](images/4.jpg)
-afdads
+
